@@ -1,2 +1,2 @@
-conflict123456
-changed
+conflict123
+12345
